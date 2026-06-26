@@ -2,7 +2,7 @@
 
 ---
 
-# Open Mind
+# OpenMind
 
 An Agent Skill that strips the vendor opinionation baked into AI coding tools and makes the agent execute your request 1:1 on the stack you actually want.
 
